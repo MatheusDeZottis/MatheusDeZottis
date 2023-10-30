@@ -31,7 +31,7 @@
 Onde eu é minha equipe vamos campeão em primiero lugar pela https://efg.org.br/* .
 Primeiro ideathon EfG Luis Rassi jiit 2023.
 
-![imagem](Uploading image.png…)
+![imagem](file:///home/matheus/Downloads/IMG-20231018-WA0290(1).jpg)
 
 
 
