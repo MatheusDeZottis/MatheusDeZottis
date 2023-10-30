@@ -35,4 +35,5 @@ Primeiro ideathon EfG Luis Rassi jiit 2023.*
 
 
 
+
 ![Uploading 20231030_000354.jpg…]()
