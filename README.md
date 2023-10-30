@@ -31,7 +31,4 @@
 *Onde eu é minha equipe vamos campeão em primiero lugar pela https://efg.org.br/* .
 Primeiro ideathon EfG Luis Rassi jiit 2023.*
 
-![](file:///home/matheus/Downloads/IMG-20231018-WA0290(1).jpg)
-
-
-
+![IMG-20231018-WA0290(1)](https://github.com/MatheusDeZottis/MatheusDeZottis/assets/144859299/63f45e26-4fc7-4903-989d-a652597a686b)
