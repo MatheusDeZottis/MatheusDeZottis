@@ -36,4 +36,4 @@ Primeiro ideathon EfG Luis Rassi jiit 2023.*
 
 
 
-![Uploading 20231030_000354.jpg…]()
+![20231030_000354](https://github.com/MatheusDeZottis/MatheusDeZottis/assets/144859299/7370cf0d-9b98-41f0-8188-425a5dd8610d)
