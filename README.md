@@ -12,7 +12,7 @@
 ## ***Linguagem de programação que estudo:*** 
 
 
-![.](<img align="center" alt="a-Python" height="30" width="40" src=)
+![image](<img align="center" alt="a-Python" height="30" width="40" src=)
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
