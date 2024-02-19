@@ -9,11 +9,17 @@
 *Faço parte de um projeto de exteção em **devolps***
 ![](https://cdn.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1366/https://4linux.com.br/wp-content/uploads/2020/08/o-que-e-devops.jpg)
 
-## ***Linguagem de programação que estudo:*** 
+## ***Linguagem de programação é marcação que estudo:*** 
 
 
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 
 ## ***como entrar em contato comigo***
