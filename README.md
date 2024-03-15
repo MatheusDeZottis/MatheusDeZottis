@@ -4,7 +4,7 @@
  
 * Atualmente estou no Curso técnico em  desenvolvimeto web é mobile pela instituição https://efg.org.br/*
 
-*Sou apaixonado por tecnologia, estou aqui para apreder cada dia mais é também ensinar porque os resultados sempre serão melhores quanto temos propósitos*❤️
+*Sou apaixonado por tecnologia, estou aqui para aprender cada dia mais é também ensinar porque os resultados sempre serão melhores quanto temos propósitos*❤️
 
 *Faço parte de um projeto de exteção em **devolps***
 ![](https://cdn.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1366/https://4linux.com.br/wp-content/uploads/2020/08/o-que-e-devops.jpg)
