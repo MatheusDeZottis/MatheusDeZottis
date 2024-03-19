@@ -9,17 +9,18 @@
 *Faço parte de um projeto de exteção em **devolps***
 ![](https://cdn.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1366/https://4linux.com.br/wp-content/uploads/2020/08/o-que-e-devops.jpg)
 
-## ***Linguagem de programação é marcação que estudo:*** 
+## ***Linguagems de programação :*** 
 
 
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## ***Linguagens de marcação***
 
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ## ***como entrar em contato comigo***
@@ -34,13 +35,10 @@
 
 [![matheus de zottis](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-de-zottis-5635a6294)
 
-##
-***Participação em hackthon***
 
+## ***Participação em hackthon***
 
-*Onde eu é minha equipe ganhamos  em primeiro lugar pela https://efg.org.br/* .
-**Primeiro ideathon EfG Luis Rassi jiit 2023.**
-
-
+Onde eu é minha equipe ganhamos em primeiro lugar pela https://efg.org.br/ . Primeiro ideathon EfG Luis Rassi jiit 18/10/2023.
+Projeto voltado para sustentabilidade (CLI), coleta de lixo inteligente .**
 
 ![20231030_000354](https://github.com/MatheusDeZottis/MatheusDeZottis/assets/144859299/7370cf0d-9b98-41f0-8188-425a5dd8610d)
