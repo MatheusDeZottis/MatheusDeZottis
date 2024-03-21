@@ -1,7 +1,7 @@
 # *Satisfações meu nome é Matheus* 
  ***faço parte da  aréa de desenvolvimento de software***
  
-*Atualmente estou no Curso técnico em  desenvolvimeto web é mobile pela instituição https://efg.org.br/*
+*Curso técnico em  desenvolvimeto web é mobile pela instituição https://efg.org.br/*
 
 *Sou apaixonado por tecnologia, estou aqui para aprender cada dia mais é também ensinar porque os resultados sempre serão melhores quanto temos propósitos*❤️
 
