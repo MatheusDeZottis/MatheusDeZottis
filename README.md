@@ -1,7 +1,7 @@
 # *Satisfações meu nome é Matheus* 
  ***faço parte da  aréa de desenvolvimento de software***
  
-*Curso técnico em  desenvolvimeto web é mobile pela instituição https://efg.org.br/*
+***Curso técnico em  desenvolvimeto web é mobile pela instituição https://efg.org.br/***
 
 *Sou apaixonado por tecnologia, estou aqui para aprender cada dia mais é também ensinar porque os resultados sempre serão melhores quanto temos propósitos*❤️
 
@@ -15,14 +15,14 @@
 
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## ***Linguagens de marcação***
+## ***Linguagens de marcação:***
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## ***como entrar em contato comigo***
+## ***como entrar em contato comigo !***
 
 [![matheusdezottis@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/intl/pt-BR/gmail/about//matheusdezottis@gmail.com)
 
@@ -40,6 +40,7 @@
 ***Onde eu é minha equipe ganhamos em primeiro lugar pela https://efg.org.br/ . Primeiro ideathon EfG Luis Rassi jiit 18/10/2023.
 Projeto voltado para sustentabilidade (CLI), coleta de lixo inteligente .***
 ![](https://lh3.googleusercontent.com/pw/AP1GczP2x6z2pb8d3or_qJa7IPqRK1wLwin9Q08Jc_1_G2SiApWDaHeUdDLvY3LS4bWDi9Dej3ld_BY_BfZI9SiB5D5saRAvD2VDok4upZuAlJFkj5gbsmOrknTX7y42pN0SGBjxjH5mhA1NdowU-ohk_4tt=w823-h620-s-no-gm?authuser=0)
+
 
 ## ***Participação em oficina de front-end***
 *Participação em oficina de front-end promovida pela https://efg.org.br/ Luis Rassi eixo temático  de ""gestão é tecnologia"" em Aparecida De Goiánia Goiás com duração de quatro horas.*
