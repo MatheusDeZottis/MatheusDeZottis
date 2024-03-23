@@ -5,7 +5,7 @@
 
 *Sou apaixonado por tecnologia, estou aqui para aprender cada dia mais é também ensinar porque os resultados sempre serão melhores quanto temos propósitos*❤️
 
-*Faço parte de um grupo de extensão em ***devolps***, onde sou palestrante* 
+## ***Faço parte de um grupo de extensão em ***devolps***, onde sou palestrante!*** 
 ![](https://cdn.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1366/https://4linux.com.br/wp-content/uploads/2020/08/o-que-e-devops.jpg)
 
 ## ***Linguagems de programação :*** 
