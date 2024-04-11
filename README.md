@@ -11,9 +11,9 @@
 ## ***Linguagems de programação :*** 
 
 
-![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+[![repositório python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MatheusDeZottis/PYTHON.git)
 
-[![repositorio js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/MatheusDeZottis/java-Script.git)
+[![repositório js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/MatheusDeZottis/java-Script.git)
 
 ## ***Linguagens de marcação:***
 
