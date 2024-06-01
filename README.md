@@ -1,21 +1,18 @@
 
 
-<h1 > Meu nome é <em> Matheus De Zottis </em></h1>
+# Meu nome é *Matheus De Zottis*
 
+## Desenvolvedor full stack em formação
 
-<h2> Desenvolvedor full stack em formação </h2>
+### Curso técnico em desenvolvimento web e mobile pela instituição [EFG](https://efg.org.br/)
 
- 
-<h3> Curso técnico em  desenvolvimeto web é mobile pela instituição https://efg.org.br/ </h3>
+Sou apaixonado por tecnologia, estou aqui para aprender cada dia mais e também ensinar porque os resultados sempre serão melhores quando temos propósitos.
 
-<p> Sou apaixonado por tecnologia, estou aqui para aprender cada dia mais é também ensinar porque os resultados sempre serão melhores quanto temos propósitos </p>
+# **Experiências**
 
-<em><h1> Experiências </h1></em>
+## **Participação em Hackathon**
 
-## ***Participação em hackthon***
-
-***Onde eu é minha equipe ganhamos em primeiro lugar pela https://efg.org.br/ . Primeiro ideathon EfG Luis Rassi jiit 18/10/2023.
-Projeto voltado para sustentabilidade (CLI), coleta de lixo inteligente .***
+Onde eu e minha equipe ganhamos em primeiro lugar pela [EFG](https://efg.org.br/). Primeiro Ideathon EFG Luis Rassi JIIT 18/10/2023. Projeto voltado para sustentabilidade (CLI), coleta de lixo inteligente.
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczP2x6z2pb8d3or_qJa7IPqRK1wLwin9Q08Jc_1_G2SiApWDaHeUdDLvY3LS4bWDi9Dej3ld_BY_BfZI9SiB5D5saRAvD2VDok4upZuAlJFkj5gbsmOrknTX7y42pN0SGBjxjH5mhA1NdowU-ohk_4tt=w823-h620-s-no-gm?authuser=0" alt="Descrição da imagem" width="600px" height="350px" >
 
@@ -26,8 +23,10 @@ Projeto voltado para sustentabilidade (CLI), coleta de lixo inteligente .***
 
 
 
-## ***Participação em oficina de front-end***
-*Participação em oficina de front-end promovida pela https://efg.org.br/ Luis Rassi eixo temático  de ""gestão é tecnologia"" em Aparecida De Goiánia Goiás com duração de quatro horas.*
+## **Participação em oficina de front-end**
+
+Participação em oficina de front-end promovida pela [EFG](https://efg.org.br/) Luis Rassi eixo temático de "gestão e tecnologia" em Aparecida de Goiânia, Goiás, com duração de quatro horas.
+
 
 ## ***Linguagems de programação :*** 
 
