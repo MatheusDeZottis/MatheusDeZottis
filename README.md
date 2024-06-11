@@ -6,13 +6,13 @@
 
 ### Curso técnico em desenvolvimento web e mobile pela instituição [EFG](https://efg.org.br/)
 
-Sou apaixonado por tecnologia, estou aqui para aprender cada dia mais e também ensinar porque os resultados sempre serão melhores quando temos propósitos.
+<p>Sou apaixonado por tecnologia e estou aqui para aprender e ensinar continuamente, pois os resultados são sempre melhores quando temos propósitos claros.</p>
 
 # **Experiências**
 
 ## **Participação em Hackathon**
 
-Onde eu e minha equipe ganhamos em primeiro lugar pela [EFG](https://efg.org.br/). Primeiro Ideathon EFG Luis Rassi JIIT 18/10/2023. Projeto voltado para sustentabilidade (CLI), coleta de lixo inteligente.
+<p>Onde eu e minha equipe ganhamos em primeiro lugar pela [EFG](https://efg.org.br/). Primeiro Ideathon EFG Luis Rassi JIIT 18/10/2023. Projeto voltado para sustentabilidade (CLI), coleta de lixo inteligente.</p>
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczP2x6z2pb8d3or_qJa7IPqRK1wLwin9Q08Jc_1_G2SiApWDaHeUdDLvY3LS4bWDi9Dej3ld_BY_BfZI9SiB5D5saRAvD2VDok4upZuAlJFkj5gbsmOrknTX7y42pN0SGBjxjH5mhA1NdowU-ohk_4tt=w823-h620-s-no-gm?authuser=0" alt="Descrição da imagem" width="600px" height="350px" >
 
@@ -25,7 +25,8 @@ Onde eu e minha equipe ganhamos em primeiro lugar pela [EFG](https://efg.org.br/
 
 ## **Participação em oficina de front-end**
 
-Participação em oficina de front-end promovida pela [EFG](https://efg.org.br/) Luis Rassi eixo temático de "gestão e tecnologia" em Aparecida de Goiânia, Goiás, com duração de quatro horas.
+
+<p>Participação em oficina de front-end promovida pela [EFG](https://efg.org.br/) Luis Rassi eixo temático de "gestão e tecnologia" em Aparecida de Goiânia, Goiás, com duração de quatro horas.</p>
 
 
 ## ***Linguagems de programação :*** 
@@ -37,9 +38,23 @@ Participação em oficina de front-end promovida pela [EFG](https://efg.org.br/)
 
 ## ***Linguagens de marcação:***
 
-[![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MatheusDeZottis/HTML5-E-CSS3.git)
+[![https://github.com/MatheusDeZottis/HTML5-CSS3-.git](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MatheusDeZottis/HTML5-E-CSS3.git)
 
-[![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/MatheusDeZottis/HTML5-E-CSS3.git)
+[![https://github.com/MatheusDeZottis/HTML5-CSS3-.git](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/MatheusDeZottis/HTML5-E-CSS3.git)
+
+<h3> Frameworks </h3>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular badge">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js badge">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js badge">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap badge">
+
+
+
+<h3> Sistema operacional </h3>
+
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 <h3> Informações de contato: </h3>
