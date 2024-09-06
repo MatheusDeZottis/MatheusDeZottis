@@ -8,6 +8,8 @@ Sou apaixonado por tecnologia e estou aqui para aprender e ensinar continuamente
 
 # **Experiências**
 
+
+
 ## **Participação em Hackathon**
 
 Onde eu e minha equipe ganhamos em primeiro lugar pela [EFG](https://efg.org.br/). Primeiro Ideathon EFG Luis Rassi JIIT 18/10/2023. Projeto voltado para sustentabilidade (CLI), coleta de lixo inteligente.
