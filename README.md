@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusdezottis/)
 
 
-## Desenvolvedor full stack em formação
+## Desenvolvedor full stack 
 
 ### Curso técnico em desenvolvimento web e mobile pela instituição [EFG](https://efg.org.br/)
 
