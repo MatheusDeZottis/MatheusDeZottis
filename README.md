@@ -4,8 +4,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusDeZottis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDeZottis&layout=compact&theme=dracula" />
 </p>
-<h2><strong>Informações de contato:</strong></h2>
-<p>
+<h2 align="center"><strong>Informações de contato:</strong></h2>
+<p align="center">
   <a href="mailto:matheusdezottis@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
