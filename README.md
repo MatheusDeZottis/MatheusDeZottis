@@ -1,6 +1,6 @@
 <h1 align="center">Meu nome é <em>Matheus De Zottis</em></h1>
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
+<p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusDeZottis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDeZottis&layout=compact&theme=dracula" />
 </p>
