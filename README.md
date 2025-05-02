@@ -16,13 +16,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-<h2>Desenvolvedor Front End</h2>
-<p>Curso técnico em desenvolvimento web e mobile pela instituição <a href="https://efg.org.br/">EFG</a><br>
+<h2 align="center">Desenvolvedor Front End</h2>
+<p align="center">Curso técnico em desenvolvimento web e mobile pela instituição <a href="https://efg.org.br/">EFG</a><br>
 Cursando Análise e Desenvolvimento pela Universidade UNIP</p>
 <p>Sou apaixonado por tecnologia e estou aqui para aprender e ensinar continuamente, pois os resultados são sempre melhores quando temos propósitos claros.</p>
 
 <h2><strong>Linguagens de programação:</strong></h2>
-<p>
+<p align="center">
   <a href="https://github.com/MatheusDeZottis/PYTHON.git">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
@@ -31,8 +31,8 @@ Cursando Análise e Desenvolvimento pela Universidade UNIP</p>
   </a>
 </p>
 
-<h2><strong>Linguagens de marcação:</strong></h2>
-<p>
+<h2 align="center"><strong>Linguagens de marcação:</strong></h2>
+<p align="center">
   <a href="https://github.com/MatheusDeZottis/HTML5-E-CSS3.git">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
@@ -41,8 +41,8 @@ Cursando Análise e Desenvolvimento pela Universidade UNIP</p>
   </a>
 </p>
 
-<h2><strong>Frameworks:</strong></h2>
-<p>
+<h2 align="center"><strong>Frameworks:</strong></h2>
+<p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -50,8 +50,8 @@ Cursando Análise e Desenvolvimento pela Universidade UNIP</p>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
-<h2><strong>Sistemas operacionais:</strong></h2>
-<p>
+<h2 align="center"><strong>Sistemas operacionais:</strong></h2>
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
 </p>
