@@ -23,6 +23,9 @@ Cursando Análise e Desenvolvimento pela Universidade <a href="https://unip.br/"
 
 <h2 align="center"><strong>Linguagens de programação:</strong></h2>
 <p align="center">
+  <a href="https://github.com/MatheusDeZottis/portfolio.git">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
   <a href="https://github.com/MatheusDeZottis/PYTHON.git">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
