@@ -47,10 +47,9 @@ Cursando Análise e Desenvolvimento pela Universidade <a href="https://unip.br/"
 <h2 align="center"><strong>Frameworks:</strong></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
 </p>
 
 <h2 align="center"><strong>Sistemas operacionais:</strong></h2>
