@@ -60,7 +60,7 @@ Cursando Análise e Desenvolvimento pela Universidade UNIP</p>
 
 <h1 align="center"><strong>Experiências</strong></h1>
 
-<h2><strong>Participação em Hackathon</strong></h2>
+<h2 align="center"><strong>Participação em Hackathon</strong></h2>
 <p align="center">
   <img src="https://lh3.googleusercontent.com/pw/AP1GczP2x6z2pb8d3or_qJa7IPqRK1wLwin9Q08Jc_1_G2SiApWDaHeUdDLvY3LS4bWDi9Dej3ld_BY_BfZI9SiB5D5saRAvD2VDok4upZuAlJFkj5gbsmOrknTX7y42pN0SGBjxjH5mhA1NdowU-ohk_4tt=w823-h620-s-no-gm?authuser=0" alt="Equipe Hackathon" width="600px" height="350px">
 </p>
