@@ -19,9 +19,9 @@
 <h2 align="center">Desenvolvedor Front End</h2>
 <p align="center">Curso técnico em desenvolvimento web e mobile pela instituição <a href="https://efg.org.br/">EFG</a><br>
 Cursando Análise e Desenvolvimento pela Universidade UNIP</p>
-<p>Sou apaixonado por tecnologia e estou aqui para aprender e ensinar continuamente, pois os resultados são sempre melhores quando temos propósitos claros.</p>
+<p align="center"> Sou apaixonado por tecnologia e estou aqui para aprender e ensinar continuamente, pois os resultados são sempre melhores quando temos propósitos claros.</p>
 
-<h2><strong>Linguagens de programação:</strong></h2>
+<h2 align="center"><strong>Linguagens de programação:</strong></h2>
 <p align="center">
   <a href="https://github.com/MatheusDeZottis/PYTHON.git">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -64,12 +64,12 @@ Cursando Análise e Desenvolvimento pela Universidade UNIP</p>
 <p align="center">
   <img src="https://lh3.googleusercontent.com/pw/AP1GczP2x6z2pb8d3or_qJa7IPqRK1wLwin9Q08Jc_1_G2SiApWDaHeUdDLvY3LS4bWDi9Dej3ld_BY_BfZI9SiB5D5saRAvD2VDok4upZuAlJFkj5gbsmOrknTX7y42pN0SGBjxjH5mhA1NdowU-ohk_4tt=w823-h620-s-no-gm?authuser=0" alt="Equipe Hackathon" width="600px" height="350px">
 </p>
-<p>Onde eu e minha equipe ganhamos em primeiro lugar pela <a href="https://efg.org.br/">EFG</a>. Primeiro Ideathon EFG Luis Rassi JIIT 18/10/2023. Projeto voltado para sustentabilidade (CLI), coleta de lixo inteligente.</p>
+<p align="center">Onde eu e minha equipe ganhamos em primeiro lugar pela <a href="https://efg.org.br/">EFG</a>. Primeiro Ideathon EFG Luis Rassi JIIT 18/10/2023. Projeto voltado para sustentabilidade (CLI), coleta de lixo inteligente.</p>
 
-<h2><strong>Faço parte de um grupo de extensão em DevOps, onde sou palestrante!</strong></h2>
+<h2 align="center"><strong>Faço parte de um grupo de extensão em DevOps, onde sou palestrante!</strong></h2>
 <p align="center">
   <img src="https://cdn.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1366/https://4linux.com.br/wp-content/uploads/2020/08/o-que-e-devops.jpg" alt="Imagem DevOps" width="600px" height="250px">
 </p>
 
-<h2><strong>Participação em oficina de front-end</strong></h2>
-<p>Promovida pela <a href="https://efg.org.br/">EFG</a> Luis Rassi, eixo temático gestão e tecnologia, em Aparecida de Goiânia - GO, com duração de 4 horas.</p>
+<h2 align="center"><strong>Participação em oficina de front-end</strong></h2>
+<p align="center">Promovida pela <a href="https://efg.org.br/">EFG</a> Luis Rassi, eixo temático gestão e tecnologia, em Aparecida de Goiânia - GO, com duração de 4 horas.</p>
