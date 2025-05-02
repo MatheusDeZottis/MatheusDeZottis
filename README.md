@@ -18,7 +18,7 @@
 </p>
 <h2 align="center">Desenvolvedor Front End</h2>
 <p align="center">Curso técnico em desenvolvimento web e mobile pela instituição <a href="https://efg.org.br/">EFG</a><br>
-Cursando Análise e Desenvolvimento pela Universidade <a href="https://unip.br/">UNIP</a> </p>
+Cursando Análise e Desenvolvimento pela Universidade <a href="https://unip.br/">UNIP</a> </p> 
 <p align="center"> Sou apaixonado por tecnologia e estou aqui para aprender e ensinar continuamente, pois os resultados são sempre melhores quando temos propósitos claros.</p>
 
 <h2 align="center"><strong>Linguagens de programação:</strong></h2>
