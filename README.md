@@ -4,6 +4,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusDeZottis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDeZottis&layout=compact&theme=dracula" />
 </p>
+<p align="center">
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusDeZottis&bg_color=0d1117&color=9fb2e0&line=9fb2e0&point=7e98d5&area=true&hide_border=true" 
+    alt="Gráfico de Atividades no GitHub" />
+</p>
+
 <h2 align="center"><strong>Informações de contato:</strong></h2>
 <p align="center">
   <a href="mailto:matheusdezottis@gmail.com">
