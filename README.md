@@ -1,23 +1,19 @@
 <h1 align="center">✨ Olá, eu sou <em>Matheus De Zottis</em> 👋</h1>
 <h3 align="center">🚀 Desenvolvedor Front-End | 🌐 Web & Mobile |</h3>
-
----
 <div align="center">
 
 ## 📊 GitHub Stats
-<p align="center"> 
+<p> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusDeZottis&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDeZottis&layout=compact&theme=radical" />
 </p>
-<p align="center">
+<p>
   <img  src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusDeZottis&bg_color=0d1117&color=ff007f&line=ff007f&point=ffffff&area=true&hide_border=true" 
     alt="Gráfico de Atividades no GitHub" />
 </p>
 
----
-
 ## 📬 Contato
-<p align="center">
+<p>
   <a href="mailto:matheusdezottis@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -29,22 +25,18 @@
   </a>
 </p>
 
----
-
 ## 👨‍💻 Sobre mim
-<p align="center">
+<p>
 📚 Técnico em Desenvolvimento Web & Mobile pela <a href="https://efg.org.br/">EFG</a><br>
 🎓 Cursando Análise e Desenvolvimento de Sistemas pela <a href="https://unip.br/">UNIP</a><br>
 💡 Apaixonado por tecnologia, inovação e boas práticas de desenvolvimento.<br>
 🔥 Sempre em busca de novos desafios e aprendizados.
 </p>
 
----
-
 ## 🛠️ Tecnologias
 
 ### 💻 Linguagens de Programação
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -52,13 +44,13 @@
 </p>
 
 ### 🎨 Linguagens de Marcação
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
 ### ⚡ Frameworks & Ferramentas
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -70,27 +62,24 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
 
----
-
 ## 🏆 Eventos & Competições
 
 ### 🥇 Hackathon EFG (18/10/2023)
-<p align="center">
+<p>
   <img src="https://lh3.googleusercontent.com/pw/AP1GczP2x6z2pb8d3or_qJa7IPqRK1wLwin9Q08Jc_1_G2SiApWDaHeUdDLvY3LS4bWDi9Dej3ld_BY_BfZI9SiB5D5saRAvD2VDok4upZuAlJFkj5gbsmOrknTX7y42pN0SGBjxjH5mhA1NdowU-ohk_4tt=w823-h620-s-no-gm?authuser=0" width="600px" height="350px">
 </p>
-<p align="center">🏆 1º Lugar no Ideathon EFG Luís Rassi JIIT com projeto de sustentabilidade (CLI - Coleta de Lixo Inteligente).</p>
+<p>🏆 1º Lugar no Ideathon EFG Luís Rassi JIIT com projeto de sustentabilidade (CLI - Coleta de Lixo Inteligente).</p>
 
 ### 🎤 Grupo de Extensão em DevOps
-<p align="center">
+<p>
   <img src="https://cdn.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1366/https://4linux.com.br/wp-content/uploads/2020/08/o-que-e-devops.jpg" width="600px" height="250px">
 </p>
-<p align="center">Sou palestrante no grupo de extensão em DevOps, compartilhando experiências e boas práticas.</p>
+<p>Sou palestrante no grupo de extensão em DevOps, compartilhando experiências e boas práticas.</p>
 
 ### 💻 Oficina Front-End
-<p align="center">
+<p>
 Participação em oficina promovida pela <a href="https://efg.org.br/">EFG</a> Luís Rassi - Eixo Gestão & Tecnologia (Aparecida de Goiânia - GO) | Duração: 4h
 </p>
-
 
 ## 💼 Experiências Profissionais
 
@@ -105,8 +94,6 @@ Participação em oficina promovida pela <a href="https://efg.org.br/">EFG</a> L
   🚀 Projetos práticos aplicando teoria  
   🎯 Metodologias inovadoras de ensino  
 
----
-
 ### 💻 Desenvolvedor Front-end – Grupo Bios  
 **Período:** Desde 17/02/2025  
 
@@ -117,9 +104,7 @@ Participação em oficina promovida pela <a href="https://efg.org.br/">EFG</a> L
   🌀 Boas práticas de **Git & Kanban**  
   🛠️ Manutenção e novas funcionalidades  
 
----
-
-<div align="center">
+<div>
   
 📌 *"Os melhores resultados vêm quando temos clareza de propósito e paixão pelo que fazemos."*  
 
