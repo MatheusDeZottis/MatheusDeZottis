@@ -34,6 +34,7 @@ Cursando Análise e Desenvolvimento pela Universidade <a href="https://unip.br/"
   <a href="https://github.com/MatheusDeZottis/PYTHON.git">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <a href="https://github.com/MatheusDeZottis/java-Script.git">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
@@ -52,8 +53,7 @@ Cursando Análise e Desenvolvimento pela Universidade <a href="https://unip.br/"
 <h2 align="center"><strong>Frameworks:</strong></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Next.js-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
 </p>
 
