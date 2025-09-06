@@ -1,8 +1,8 @@
-<h1 align="center">✨ Olá, eu sou <em>Matheus De Zottis</em> 👋</h1>
-<h3 align="center">🚀 Desenvolvedor Front-End | 🌐 Web & Mobile |</h3>
 <div align="center">
-
-## 📊 GitHub Stats
+<h1>✨ Olá, eu sou <em>Matheus De Zottis</em> 👋</h1>
+<h3>🚀 Desenvolvedor Front-End | 🌐 Web & Mobile |</h3>
+  
+📊 GitHub Stats
 <p> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusDeZottis&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDeZottis&layout=compact&theme=radical" />
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-## 👨‍💻 Sobre mim
+👨‍💻 Sobre mim
 <p>
 📚 Técnico em Desenvolvimento Web & Mobile pela <a href="https://efg.org.br/">EFG</a><br>
 🎓 Cursando Análise e Desenvolvimento de Sistemas pela <a href="https://unip.br/">UNIP</a><br>
