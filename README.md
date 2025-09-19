@@ -1,6 +1,6 @@
 <div align="center">
 <h1>✨ Olá, eu sou <em>Matheus De Zottis</em> 👋</h1>
-<h3>🚀 Desenvolvedor Front-End | 🌐 Web & Mobile |</h3>
+<h3>🚀 Desenvolvedor Front-End | 🌐 Web && Mobile |</h3>
   
 📊 GitHub Stats
 <p> 
