@@ -3,10 +3,18 @@
 <h3>🚀 Desenvolvedor Front-End | 🌐 Web && Mobile |</h3>
   
 📊 GitHub Stats
-<p> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusDeZottis&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDeZottis&layout=compact&theme=radical" />
-</p>
+<!-- Bloco estilizado, centralizado e consistente para os dois cards -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
+    <img src="https://github-readme-stats.vercel.app/ username=MatheusDeZottis&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&rank_icon=github&cache_seconds=7200&v=2" height="180" alt="MatheusDeZottis — GitHub Stats" style="margin:0 8px; vertical-align:middle;" loading="lazy" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDeZottis&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=380&cache_seconds=7200&v=2" height="180" alt="MatheusDeZottis —  Languages" style="margin:0 8px; vertical-align:middle;" loading="lazy" />
+  </a>
+</div>
+
 <p>
   <img  src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusDeZottis&bg_color=0d1117&color=ff007f&line=ff007f&point=ffffff&area=true&hide_border=true" 
     alt="Gráfico de Atividades no GitHub" />
