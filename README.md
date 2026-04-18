@@ -100,7 +100,7 @@ Participação em oficina promovida pela <a href="https://efg.org.br/">EFG</a> L
 **Período:** Desde 17/02/2025  
 
   📱 Apps multiplataforma (**Ionic**, Android & iOS)  
-  🔗 Integração de **APIs REST**  
+  🔗 Integração de **APIs Command-based API**  
   ✅ Testes de homologação em diferentes plataformas  
   🤝 Colaboração com **back-end**  
   🌀 Boas práticas de **Git & Kanban**  
