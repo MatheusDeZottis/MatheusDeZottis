@@ -97,7 +97,7 @@ Participação em oficina promovida pela <a href="https://efg.org.br/">EFG</a> L
   🎯 Metodologias inovadoras de ensino  
 
  💻 Desenvolvedor Front-end – Grupo Bios  
-**Período:** Desde 17/02/2025  
+**Período:** 17/02/2025 a 08/11/2025 
 
   📱 Apps multiplataforma (**Ionic**, Android & iOS)  
   🔗 Integração de **APIs Command-based API**  
